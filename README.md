@@ -6,13 +6,13 @@
 Убедитесь, что у вас установлен Python 3.9+. Создайте и активируйте виртуальное окружение:
 
 
-# Создание окружения
+Создание окружения
 python -m venv venv
 
-# Активация для Linux/macOS:
+Активация для Linux/macOS:
 source venv/bin/activate
 
-# Активация для Windows:
+Активация для Windows:
 venv\Scripts\activate
 Используйте код с осторожностью.
 
